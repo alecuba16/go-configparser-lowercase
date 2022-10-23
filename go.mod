@@ -1,4 +1,4 @@
-module github.com/bigkevmcd/go-configparser
+module github.com/alecuba16/go-configparser-lowercase
 
 go 1.19
 
