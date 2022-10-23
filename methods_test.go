@@ -1,7 +1,7 @@
 package configparser_test
 
 import (
-	"github.com/bigkevmcd/go-configparser"
+	"github.com/alecuba16/go-configparser-lowercase"
 
 	gc "gopkg.in/check.v1"
 )

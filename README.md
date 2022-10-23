@@ -1,4 +1,4 @@
-# go-configparser [![Build Status](https://travis-ci.org/bigkevmcd/go-configparser.png)](https://travis-ci.org/bigkevmcd/go-configparser)
+# go-configparser [![Build Status](https://travis-ci.org/alecuba16/go-configparser-lowercase.png)](https://travis-ci.org/bigkevmcd/go-configparser)
 Go implementation of the Python ConfigParser class.
 
 This can parse Python-compatible ConfigParser config files, including support for option interpolation.
@@ -6,7 +6,7 @@ This can parse Python-compatible ConfigParser config files, including support fo
 ## Setup
 ```Go
   import (
-    "github.com/bigkevmcd/go-configparser"
+    "github.com/alecuba16/go-configparser-lowercase"
   )
 ```
 

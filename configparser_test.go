@@ -3,7 +3,7 @@ package configparser_test
 import (
 	"strings"
 
-	"github.com/bigkevmcd/go-configparser"
+	"github.com/alecuba16/go-configparser-lowercase"
 	. "gopkg.in/check.v1"
 	gc "gopkg.in/check.v1"
 

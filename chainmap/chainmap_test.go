@@ -1,7 +1,7 @@
 package chainmap_test
 
 import (
-	"github.com/bigkevmcd/go-configparser/chainmap"
+	"github.com/alecuba16/go-configparser-lowercase/chainmap"
 	"testing"
 
 	gc "gopkg.in/check.v1"
