@@ -12,7 +12,7 @@ import (
 )
 
 const (
-	defaultSectionName        = "DEFAULT"
+	defaultSectionName        = "default"
 	maxInterpolationDepth int = 10
 )
 
